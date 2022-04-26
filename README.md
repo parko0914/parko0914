@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is HoJoonPark. I'm a colorful data scientist. Nice to meet you😄
+My name is HoJoonPark. I'm a colorful data-scientist. Nice to meet you😄
 ___
 
 <!--
