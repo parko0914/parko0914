@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is HoJoonPark. I'm a colorful data scientist. Nice to meet you😄
+___
+
 <!--
 **parko0914/parko0914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
